@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0.0"
+
+cards:
+  message: "Hello from Cards Service"
+  contactDetails:
+    mobileNumber: "0712345678"
+    email: "ahmedreda3009@gmail.com"
+    username: "ahmedreda"
+  onCallSupport:
+    -(10202030)
+    -(10202031)
