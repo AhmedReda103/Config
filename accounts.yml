@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: "Hello from Accounts Service"
+  message: "Hello from Accounts Service AAAAAAAAAAA"
   contactDetails:
     mobileNumber: "0712345678"
     email: "ahmedreda3009@gmail.com"
